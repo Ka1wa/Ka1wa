@@ -1,6 +1,6 @@
 <h1>Hi! 안녕하세요! 🌏</h1> 
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordy.ruiter@gmail.com)](mailto:jordy.ruiter) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwa/)](https://www.linkedin.com/in/kaiwa/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordy.ruiter@gmail.com)](mailto:jordy.ruiter@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwa/)](https://www.linkedin.com/in/kaiwa/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ka1wa/)](https://www.instagram.com/ka1wa/)
 
 <h2>I'm Jordy Ruiter</h2>
